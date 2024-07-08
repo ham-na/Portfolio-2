@@ -11,14 +11,14 @@
 
 **1. Data Cleaning**: 
 - The data cleaning process included:
-  - Removing unnecessary columns
-  - Reformatting dates and extracting year, month, and day for a consistent format (YYYY-MM-DD)
-  - Addressing discrepancies in province and other column formatting
-  - Correcting data type inconsistencies
+  - Removing unnecessary columns.
+  - Reformatting dates and extracting year, month, and day for a consistent format (YYYY-MM-DD).
+  - Addressing discrepancies in province and other column formatting.
+  - Correcting data type inconsistencies.
   
 **2. Exploration and Findings:**
 
-[Sql file](https://github.com/ham-na/sql-dump/blob/main/One_sided_conflict.sql)
+[Sql file](https://github.com/ham-na/Portfolio-2/blob/main/suicide%20attacks.sql)
 
 Utilizing MySQL queries, the data was explored to summarize trends and identify correlations. Key findings include:
 
@@ -32,11 +32,13 @@ Utilizing MySQL queries, the data was explored to summarize trends and identify 
 - **Military Targeting:** Military targets saw a significant increase in attacks between 2007 and 2010.
 
 **Visualizations**:
-  
-![Dashboard 1 Screenshot](https://github.com/ham-na/sql-dump/blob/main/Number%20of%20incidents%20per%20year.png?raw=true)
-![Dashboard 2 Screenshot](https://github.com/ham-na/sql-dump/blob/main/Number%20of%20incidents%20per%20location.png?raw=true)
-![Dashboard 3 Screenshot](https://github.com/ham-na/sql-dump/blob/main/Fatality%20density.png?raw=true)
 
-[Interactive Version](https://public.tableau.com/views/One-sidedconflictanalysis2/Dashboard12?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Interactive Version of Visualizations](https://public.tableau.com/views/SuicideAttacksinPakistan_17204323043000/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+  
+![Dashboard 1 Screenshot](https://github.com/ham-na/Portfolio-2/blob/main/Suicide%20attack%20-%20viz%201.png?raw=true)
+![Dashboard 2 Screenshot](https://github.com/ham-na/Portfolio-2/blob/main/Suicide%20attack%20-%20viz%202.png?raw=true)
+![Dashboard 3 Screenshot](https://github.com/ham-na/Portfolio-2/blob/main/Suicide%20attack%20-%20viz%203.png?raw=true)
+![Dashboard 4 Screenshot](https://github.com/ham-na/Portfolio-2/blob/main/Suicide%20attack%20-%20viz%204.png?raw=true)
 
 **Contact Email**: hamna.rehman88@gmail.com
